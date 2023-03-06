@@ -11,7 +11,7 @@ This project is created following react course by Brian Holt on frontendmasters,
 You can try this project
 
 ```
-$ git clone https://example.com
+$ git clone https://github.com/Kubik-a/react-fem.git
 $ cd ../path/to/the/file
 $ npm install
 $ npm run dev
